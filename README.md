@@ -1,4 +1,4 @@
-# fahrisaldwiky-FahrisalDwikyR_Capstone_Project_Modul_1_PURWADHIKA
+# FahrisalDwikyR_Capstone_Project_Modul_1_PURWADHIKA
 # Capstone
 Pada program ini merupakan implementasi operasi CRUD (Create, Read, Update, Delete) pada suatu database nilai akademik siswa. Berikut adalah penjelasan setiap fungsi dalam program:
 
